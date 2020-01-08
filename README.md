@@ -1,2 +1,2 @@
-# med_flask_symptoms_v1
-a symptom and disease predictor for medical cultivar data
+# medflask1v1
+Flask App using Med Cabinet Group 3 Basilica Embedding NLP Model
